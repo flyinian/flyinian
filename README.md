@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flyinian
-- 👀 I’m interested in Game development using Game Maker 2
-- 🌱 I’m currently learning GML(Game Maker Language)
+- 👀 I’m interested in Game development using Godot.
+- 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
